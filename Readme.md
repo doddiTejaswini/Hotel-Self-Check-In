@@ -15,7 +15,7 @@
 10.  Implement a basic UI with minimal functionality required.
 
 ## App Features
-1. Shows list of hotes as structured in [HotelMock.json](https://github.com/jagzmz/HotelBookingRecomendation/blob/master/app/src/main/assets/hotels.json)
+1. Shows list of hotes as structured in [HotelMock.json](https://dodditejaswini.github.io/Self-check-in-App/)
 2. List of hotels shown with their ratings, tags and views.
 3. On clicking "Book"  user can create either Draft or Complete Booking.
 4. Activities including Views, Drafts, Bookings are displayed to all. 
