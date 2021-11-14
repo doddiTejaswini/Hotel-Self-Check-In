@@ -6,20 +6,20 @@
     android:layout_height="match_parent">
 
     <androidx.recyclerview.widget.RecyclerView
-        android:tag="reco"
+        android:id="@+id/hotelList"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:id="@+id/hotelList" />
+        android:tag="reco" />
 
     <TextView
+        android:id="@+id/emptyRecommendationPlaceHolder"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:fontFamily="monospace"
-        android:id="@+id/emptyRecommendationPlaceHolder"
-        android:text="Book hotel for getting a recommendation"
         android:layout_centerInParent="true"
+        android:fontFamily="monospace"
         android:gravity="center"
-        android:visibility="invisible"
-        android:textSize="23sp"/>
+        android:text="Book hotel for getting a recommendation"
+        android:textSize="23sp"
+        android:visibility="invisible" />
 
 </RelativeLayout>

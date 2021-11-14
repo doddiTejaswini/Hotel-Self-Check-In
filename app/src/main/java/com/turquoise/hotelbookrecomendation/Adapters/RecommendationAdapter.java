@@ -1,5 +1,6 @@
 package com.turquoise.hotelbookrecomendation.Adapters;
 
+import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.Intent;
 import android.net.Uri;
@@ -55,7 +56,7 @@ public class RecommendationAdapter extends RecyclerView.Adapter<RecommendationAd
     }
 
     @Override
-    public void onBindViewHolder(@NonNull final HotelViewHolder holder, final int position) {
+    public void onBindViewHolder(@NonNull final HotelViewHolder holder, @SuppressLint("RecyclerView") final int position) {
         Picasso
                 .with(context)
                 .load(Uri.parse(hotels.get(position).getImageUrl()))

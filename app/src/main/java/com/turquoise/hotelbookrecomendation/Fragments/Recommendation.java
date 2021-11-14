@@ -94,7 +94,6 @@ public class Recommendation extends Fragment {
         recyclerView.setAdapter(recommendationAdapter);
 
 
-
         return v;
 
 
