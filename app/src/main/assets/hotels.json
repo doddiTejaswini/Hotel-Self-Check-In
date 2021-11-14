@@ -1,0 +1,54 @@
+{
+  "hotels": [
+    {
+      "name": "TITANIC Hotel",
+      "ratings": "5.0",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "800/- perDay",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageUrl": "https://www.luxurylifestylemag.co.uk/wp-content/uploads/2019/08/general-view-11-standard-Copy.jpg"
+    },
+    {
+      "name": "Hotel Royal Villas",
+      "ratings": "4.4",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "700/- perDay",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageUrl": "https://www.mayfairhotels.com/img/home_banner/Mayfair_Waves.jpg"
+    },
+    {
+      "name": "Dream Hotel",
+      "ratings": "5.0",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "1000/- perDay",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageUrl": "https://images.thrillophilia.com/image/upload/s--XDUXuwKH--/c_fill,f_auto,fl_strip_profile,h_775,q_auto,w_1600/v1/images/photos/000/040/405/original/1566992957_the_serai_chikmagalur.jpg.jpg"
+    },
+    {
+      "name": "Jas Hotel",
+      "ratings": "4.0",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "450/- perDay",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageUrl": "https://ihplb.b-cdn.net/wp-content/uploads/2013/11/Taj-Palace-Hotel-in-new-delhi.jpg"
+    },
+    {
+      "name": "Taj Hotel",
+      "ratings": "4.5",
+      "visits": "0",
+      "completedBookings": "0",
+      "draftBookings": "0",
+      "tags": "600/- perDay",
+      "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "imageUrl": "https://images.thrillophilia.com/image/upload/s---vHa4Iie--/c_fill,f_auto,fl_strip_profile,h_600,q_auto,w_975/v1/images/photos/000/140/267/original/1545484146_mp_resort-22.png.jpg?1545484146"
+    }
+  ]
+}
