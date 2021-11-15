@@ -1,5 +1,5 @@
 # Hotel Self Check-In Application
-
+-> [link to Self chek-in app for hotel customer source code]
 ## Workflow
 <img src='./hotelapp.gif'>
 
