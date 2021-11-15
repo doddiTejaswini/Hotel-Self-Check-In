@@ -1,7 +1,7 @@
 # Hotel Self Check-In Application
 -> [link to Self chek-in app for hotel customer source code](https://github.com/doddiTejaswini/Hotel-Self-Check-In)
 ## Workflow
-<img src='./Project preview.mp4'>
+<img src='./hotelapp.gif'>
 
 ## Problem Statement
 1.  Take a sample JSON for a list of Hotels
