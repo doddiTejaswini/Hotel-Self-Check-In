@@ -1,4 +1,4 @@
-# Hotel Booking & Recommendations
+# Hotel Self Check-In Application
 
 ## Workflow
 <img src='./hotelapp.gif'>
